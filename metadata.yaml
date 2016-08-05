@@ -1,0 +1,27 @@
+_repo: Madame-De-Mauves_7813
+_version: 0.0.1
+creator:
+  author:
+    agent_name: James, Henry
+    birthdate: 1843
+    deathdate: 1916
+    gutenberg_agent_id: '113'
+    url: http://www.gutenberg.org/2009/agents/113
+    wikipedia: http://en.wikipedia.org/wiki/Henry_James
+description: ''
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7813'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Married people -- Fiction'
+- !lcsh 'Americans -- France -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- GITenberg
+title: Madame De Mauves
+url: http://www.gutenberg.org/ebooks/7813
